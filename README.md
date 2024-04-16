@@ -1,5 +1,6 @@
 - 👋 Hi, I’m S.Malathi.
-- 🌱 I’m Pursuing 3rd year of Btech in the dept of CSE ,IIIT ,RGUKT,RK Valley
+- 🌱 I’m Pursuing 3rd year of Btech in the dept of CSE ,IIIT ,RGUKT,RK Valley.
+- I'm a Tech 🖥️ Enthusiast.
   
 
 <!---
