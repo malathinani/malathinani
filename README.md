@@ -7,6 +7,11 @@
 malathinani/malathinani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> SKILLS </h1>
-?i=js,html,css,java,bootstrap !
+<h2>MY  SKILLS </h2>
+<p align="center">
+  <a href="#">
+    <img src="[BASE_URL]?i=html,css,javascript" />
+  </a>
+</p>
+
 
